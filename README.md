@@ -1,6 +1,6 @@
 # ⚡ Welcome to my Digital Workspace
 
-I'm **[Nitish Kumar]**, a Full-Stack Developer specializing in building high-performance, responsive, and visually stunning web applications. I bridge the gap between elegant UI/UX and robust backend architecture.
+I'm **Nitish Kumar**, a Full-Stack Developer specializing in building high-performance, responsive, and visually stunning web applications. I bridge the gap between elegant UI/UX and robust backend architecture.
 
 ### 🛠️ Tech Stack & Arsenal
 <p align="left">

@@ -1,43 +1,42 @@
-# ⚡ Welcome to my Digital Workspace
+<h1 align="center">Hi there, I'm Nitish Kumar 👋</h1>
+<h3 align="center">Full-Stack Developer | Cyber Security Enthusiast</h3>
 
-I am a Full-Stack Web Developer specializing in building high-performance, responsive, and data-driven web applications. I bridge the gap between elegant user interfaces and robust backend architectures using **Python** and **JavaScript**.
-
-### 🛠️ Tech Stack & Arsenal
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <br>
-  <!-- Backend & Database -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <br>
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<p align="center">
+  I am an MCA student specializing in Computer Science, building modern, scalable web applications. My focus bridges the gap between dynamic frontend user experiences and secure, robust backend architectures.
 </p>
 
-### 🚀 Featured Engineering Projects
+---
 
-#### 🌌 [Cyber-Zen: Quantum Task HUD](https://github.com/Rahul-124/CYBER-ZEN)
-A full-stack, sci-fi-inspired productivity web application deployed on cloud architecture. 
-* **Tech:** React, Python, Django REST Framework, PostgreSQL, Tailwind CSS.
-* **Features:** JWT Authentication, real-time Vedic astronomical calendar engine (via `ephem`), secure SMTP password recovery, and fully decoupled cloud deployment (Vercel & Render).
+### 🚀 What I'm Currently Working On
+* **Cyber-Zen:** A full-stack productivity HUD utilizing React, Django REST Framework, and PostgreSQL with JWT authentication.
+* **Mountain Travel Agency:** A sleek, high-performance booking application built with React, Node.js, and Tailwind CSS. 
 
+### 🛠️ Technical Arsenal
 
-### 🏍️ Beyond the Code
-When I'm not architecting web applications or debugging backend routes, you can usually find me working on motorcycle riding techniques and maintenance, specifically dialing in my Bajaj Pulsar N250. 
+**Frontend Architecture**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-### 📫 Let's Connect
-<p align="left">
-  <a href="https://linkedin.com/in/nitish-kumar-2695761b4" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:nitishkumar0768907689@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+**Backend & Database**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools, Cloud & Security**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/Rahul-124&show_icons=true&theme=radical" alt="Nitish's GitHub Stats" />
+</p>
+
+<p align="center">
+  📫 Reach out to me: <a href="mailto:nitishkumar07689@gmail.com">nitishkumar07689@gmail.com</a>
 </p>
